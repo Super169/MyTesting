@@ -1,5 +1,4 @@
 #gradle properties (may contain passwords)
-gradle.properties
 
 # Built application files
 *.apk
